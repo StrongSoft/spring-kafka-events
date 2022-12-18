@@ -1,0 +1,10 @@
+POST http://localhost:8888/event
+Content-Type: application/json
+
+{
+  "userNo": 1,
+  "name": "test",
+  "age": 30
+}
+
+
